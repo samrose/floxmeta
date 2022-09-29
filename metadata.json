@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "generations": {
+    "1": {
+      "path": "/nix/store/ipsl61cbpvxibnl95dqkd6wxrmgx2chn-profile",
+      "logMessage": [
+        "Generation 1: itest installed flake:nixpkgs-flox#evalCatalog.x86_64-linux.stable.bat flake:nixpkgs-flox#evalCatalog.x86_64-linux.stable.nyancat"
+      ],
+      "created": 1664480720,
+      "lastActive": 1664480718
+    }
+  },
+  "currentGen": "1"
+}
