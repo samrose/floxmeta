@@ -10,10 +10,10 @@
 # [aliases]
 #   gg = "git grep"
 #
-# [hooks]
-#   sayhi = """
-#     echo "Supercharged by flox!" 1>&2
-#   """
+ [hooks]
+   sayhi = """
+     echo "Supercharged by flox!" 1>&2
+   """
 #
 # Edit below the "--- >8 ---" delimiter to define the list of packages to
 # be installed, but note that comments and the ordering of packages will
