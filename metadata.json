@@ -9,8 +9,16 @@
         "Generation 1->1: "
       ],
       "created": 1668107588,
-      "lastActive": 1668107880
+      "lastActive": 1668107957
+    },
+    "2": {
+      "path": "/nix/store/14mzf70braxw264sx5kqnvx69x7p7fb5-profile",
+      "logMessage": [
+        "Generation 1->2: samrose installed stable.nixpkgs-flox.postgresql_14"
+      ],
+      "created": 1668107965,
+      "lastActive": 1668107957
     }
   },
-  "currentGen": "1"
+  "currentGen": "2"
 }

@@ -24,3 +24,7 @@
   channel = "nixpkgs-flox"
   stability = "stable"
 
+  [packages."postgresql_14"]
+  channel = "nixpkgs-flox"
+  stability = "stable"
+
