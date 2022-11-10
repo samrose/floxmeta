@@ -4,10 +4,11 @@
     "1": {
       "path": "/nix/store/jpihh9xxs5jzq1a91gl9n6g8i2gdz8fh-profile",
       "logMessage": [
-        "Generation 1: samrose installed stable.nixpkgs-flox.elixir_1_14"
+        "Generation 1: samrose installed stable.nixpkgs-flox.elixir_1_14",
+        "Generation 1->1: "
       ],
       "created": 1668107588,
-      "lastActive": 1668107585
+      "lastActive": 1668107650
     }
   },
   "currentGen": "1"

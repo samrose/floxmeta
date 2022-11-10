@@ -19,8 +19,6 @@
 # *not* be preserved with updates.
 
 # ------------------------ >8 ------------------------
-
-# ------------------------ >8 ------------------------
 [packages]
   [packages."elixir_1_14"]
   channel = "nixpkgs-flox"
