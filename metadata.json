@@ -33,8 +33,16 @@
         "Generation 3->3: "
       ],
       "created": 1668108053,
-      "lastActive": 1668117147
+      "lastActive": 1671490092
+    },
+    "4": {
+      "path": "/nix/store/7cnyd4n3gkyydg1ks88prvch32kg453d-profile",
+      "logMessage": [
+        "samrose installed stable.nixpkgs-flox.bat"
+      ],
+      "created": 1671490092,
+      "lastActive": 1671490092
     }
   },
-  "currentGen": "3"
+  "currentGen": "4"
 }

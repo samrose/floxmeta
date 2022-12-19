@@ -1,0 +1,49 @@
+{
+  "elements": [
+    {
+      "active": true,
+      "attrPath": "evalCatalog.x86_64-linux.stable.bat",
+      "originalUrl": "flake:nixpkgs-flox",
+      "outputs": null,
+      "priority": 5,
+      "storePaths": [
+        "/nix/store/wdfj9m3kayiki2r9vw45ppb7r793755j-bat-0.22.1"
+      ],
+      "url": "github:flox/nixpkgs-flox/f2bf52b232c49aea34fe22820ab259cad0d9aa04"
+    },
+    {
+      "active": true,
+      "attrPath": "evalCatalog.x86_64-linux.stable.elixir_1_14",
+      "originalUrl": "flake:nixpkgs-flox",
+      "outputs": null,
+      "priority": 5,
+      "storePaths": [
+        "/nix/store/981fcl4aca9mw3dq2kwr9ga1dkdwjpv4-elixir-1.14.1"
+      ],
+      "url": "github:flox/nixpkgs-flox/09d2e0eac0dcc63d4c96edaf88bd43ab43f22e42"
+    },
+    {
+      "active": true,
+      "attrPath": "evalCatalog.x86_64-linux.stable.jq",
+      "originalUrl": "flake:nixpkgs-flox",
+      "outputs": null,
+      "priority": 5,
+      "storePaths": [
+        "/nix/store/ns9jkchsq21zm03zdmp94sqqwfxq54g2-jq-1.6"
+      ],
+      "url": "github:flox/nixpkgs-flox/09d2e0eac0dcc63d4c96edaf88bd43ab43f22e42"
+    },
+    {
+      "active": true,
+      "attrPath": "evalCatalog.x86_64-linux.stable.postgresql_14",
+      "originalUrl": "flake:nixpkgs-flox",
+      "outputs": null,
+      "priority": 5,
+      "storePaths": [
+        "/nix/store/rdf2llqlxx5gd1rs395kfb36x0w7zv4p-postgresql-14.5"
+      ],
+      "url": "github:flox/nixpkgs-flox/09d2e0eac0dcc63d4c96edaf88bd43ab43f22e42"
+    }
+  ],
+  "version": 2
+}
