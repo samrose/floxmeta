@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "currentGen": "1",
+  "generations": {
+    "1": {
+      "path": "/nix/store/vn99fbi7k8wbxb67czqa7m94d0w3y32b-profile",
+      "logMessage": [
+        "samrose installed stable.nixpkgs-flox.nyancat"
+      ],
+      "created": 1672253076,
+      "lastActive": 1672253076
+    }
+  }
+}
