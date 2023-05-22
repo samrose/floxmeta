@@ -1,0 +1,161 @@
+{
+  "nixpkgs-flox": {
+    "x86_64-linux": {
+      "stable": {
+        "bat": {
+          "latest": {
+            "cache": {
+              "out": {
+                "https://cache.nixos.org": {}
+              }
+            },
+            "element": {
+              "attrPath": [
+                "legacyPackages",
+                "x86_64-linux",
+                "bat"
+              ],
+              "originalUrl": "flake:nixpkgs",
+              "storePaths": [
+                "/nix/store/hfafwf79yn6r13c3l34kfv5ima2zqkfr-bat-0.22.1"
+              ],
+              "url": "github:flox/nixpkgs/60c1d71f2ba4c80178ec84523c2ca0801522e0a6"
+            },
+            "eval": {
+              "meta": {
+                "description": "A cat(1) clone with syntax highlighting and Git integration",
+                "outputsToInstall": [
+                  "out"
+                ],
+                "position": "/nix/store/y34pw71w25ay4j5bm5239m8gw0pp4w63-source/pkgs/tools/misc/bat/default.nix:68",
+                "unfree": false
+              },
+              "name": "bat-0.22.1",
+              "outputs": {
+                "out": "/nix/store/hfafwf79yn6r13c3l34kfv5ima2zqkfr-bat-0.22.1"
+              },
+              "pname": "bat",
+              "system": "x86_64-linux",
+              "version": "0.22.1"
+            },
+            "publish_element": {
+              "active": true,
+              "attrPath": [
+                "evalCatalog",
+                "x86_64-linux",
+                "stable",
+                "bat"
+              ],
+              "originalUrl": "flake:nixpkgs-flox",
+              "storePaths": [
+                "/nix/store/qp85acyli86ss3fn53z0zm0ywk6nyb1k-bat-0.22.1"
+              ],
+              "url": "flake:nixpkgs-flox/ef0aa65607c800694e2e22e04e5f1c5926003d77"
+            },
+            "source": {
+              "locked": {
+                "lastModified": 1679262748,
+                "revCount": 466020
+              }
+            },
+            "type": "catalogRender",
+            "version": 1
+          }
+        },
+        "jq": {
+          "latest": {
+            "cache": [
+              {
+                "cacheUrl": "https://cache.nixos.org",
+                "narinfo": [
+                  {
+                    "path": "/nix/store/ibfdqbclikyd6gv0gdyyx7sg1swqr1x0-jq-1.6-bin",
+                    "valid": true
+                  },
+                  {
+                    "path": "/nix/store/1w6b9yp7vzr86xvx3jgm386mk7lrmhkc-jq-1.6-dev",
+                    "valid": true
+                  },
+                  {
+                    "path": "/nix/store/9rm836largglna895881svhxdjyzil4n-jq-1.6-doc",
+                    "valid": true
+                  },
+                  {
+                    "path": "/nix/store/fw3li2pacc62944ap8ppjpvin95flxnf-jq-1.6-lib",
+                    "valid": true
+                  },
+                  {
+                    "path": "/nix/store/3iv5sd520j3xlxq30xvq7g3nswnv28ng-jq-1.6-man",
+                    "valid": true
+                  },
+                  {
+                    "path": "/nix/store/hi1ix7s5qvws7hhr3jqy08lqnifinx4w-jq-1.6",
+                    "valid": true
+                  }
+                ]
+              }
+            ],
+            "element": {
+              "attrPath": [
+                "legacyPackages",
+                "x86_64-linux",
+                "jq"
+              ],
+              "originalUrl": "flake:nixpkgs",
+              "storePaths": [
+                "/nix/store/ibfdqbclikyd6gv0gdyyx7sg1swqr1x0-jq-1.6-bin",
+                "/nix/store/3iv5sd520j3xlxq30xvq7g3nswnv28ng-jq-1.6-man"
+              ],
+              "url": "github:flox/nixpkgs/60c1d71f2ba4c80178ec84523c2ca0801522e0a6"
+            },
+            "eval": {
+              "meta": {
+                "description": "A lightweight and flexible command-line JSON processor",
+                "outputsToInstall": [
+                  "bin",
+                  "man"
+                ],
+                "position": "/nix/store/y34pw71w25ay4j5bm5239m8gw0pp4w63-source/pkgs/development/tools/jq/default.nix:63",
+                "unfree": false
+              },
+              "name": "jq-1.6",
+              "outputs": {
+                "bin": "/nix/store/ibfdqbclikyd6gv0gdyyx7sg1swqr1x0-jq-1.6-bin",
+                "dev": "/nix/store/1w6b9yp7vzr86xvx3jgm386mk7lrmhkc-jq-1.6-dev",
+                "doc": "/nix/store/9rm836largglna895881svhxdjyzil4n-jq-1.6-doc",
+                "lib": "/nix/store/fw3li2pacc62944ap8ppjpvin95flxnf-jq-1.6-lib",
+                "man": "/nix/store/3iv5sd520j3xlxq30xvq7g3nswnv28ng-jq-1.6-man",
+                "out": "/nix/store/hi1ix7s5qvws7hhr3jqy08lqnifinx4w-jq-1.6"
+              },
+              "pname": "jq",
+              "system": "x86_64-linux",
+              "version": "1.6"
+            },
+            "publish_element": {
+              "attrPath": [
+                "evalCatalog",
+                "x86_64-linux",
+                "stable",
+                "jq"
+              ],
+              "originalUrl": "flake:nixpkgs-flox",
+              "storePaths": [
+                "/nix/store/ibfdqbclikyd6gv0gdyyx7sg1swqr1x0-jq-1.6-bin",
+                "/nix/store/3iv5sd520j3xlxq30xvq7g3nswnv28ng-jq-1.6-man"
+              ],
+              "url": "flake:nixpkgs-flox/91fac666cf98d81798249b37ea7a79128df7b731"
+            },
+            "source": {
+              "locked": {
+                "lastModified": 1679262748,
+                "revCount": 466020
+              }
+            },
+            "type": "catalogRender",
+            "version": 1
+          }
+        }
+      }
+    }
+  }
+}

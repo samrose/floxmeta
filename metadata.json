@@ -1,13 +1,22 @@
 {
-  "currentGen": "1",
+  "currentGen": "2",
   "generations": {
     "1": {
       "created": 1681433377,
-      "lastActive": 1681433377,
+      "lastActive": 1684783203,
       "logMessage": [
         "sam installed stable.nixpkgs-flox.bat"
       ],
       "path": "/nix/store/3jgms0k1f6y37arac7yg45hmv58vnmg5-floxShell",
+      "version": 2
+    },
+    "2": {
+      "created": 1684783203,
+      "lastActive": 1684783203,
+      "logMessage": [
+        "sam installed stable.nixpkgs-flox.jq"
+      ],
+      "path": "/nix/store/5swk6zs5m6dhijcb7hyqrfnb1d5r7s46-floxShell",
       "version": 2
     }
   },
